@@ -8,9 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Building+Security+Projects+%26+Documenting+Hands-On+Work" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="80%" alt="divider" />
+</p>
 
-```text
+<pre>
 $ whoami
 Muhammad Affan
 BS Computer Science — COMSATS University Islamabad
@@ -21,7 +23,7 @@ Cybersecurity · Penetration Testing · Web Security · Security Research
 
 $ approach
 Learn → Practice → Document → Build → Improve
-```
+</pre>
 
 ---
 
@@ -106,7 +108,11 @@ ReconHound focuses on collecting, normalizing, correlating, and prioritizing rec
 
 The project currently contains **22 independently testable modules and 5,000+ tests**.
 
-[**View Repository →**](https://github.com/01-x3r0n3/ReconHound)
+<p align="center">
+  <a href="https://github.com/01-x3r0n3/ReconHound">
+    <img src="https://img.shields.io/badge/View%20Repository-ReconHound-161b22?style=for-the-badge&logo=github&logoColor=white" alt="ReconHound repository" />
+  </a>
+</p>
 
 ### ⌨️ KeyLogix
 
@@ -114,7 +120,11 @@ A Python-based keylogging research project developed in a controlled security-le
 
 The project explores keyboard event capture, logging architecture, and the security implications of input monitoring while providing practical experience with Python-based security tooling.
 
-[**View Repository →**](https://github.com/01-x3r0n3/KeyLogix)
+<p align="center">
+  <a href="https://github.com/01-x3r0n3/KeyLogix">
+    <img src="https://img.shields.io/badge/View%20Repository-KeyLogix-161b22?style=for-the-badge&logo=github&logoColor=white" alt="KeyLogix repository" />
+  </a>
+</p>
 
 ---
 
@@ -140,9 +150,13 @@ I document practical security work with an emphasis on **methodology, reasoning,
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1800&center=true&vCenter=true&width=650&lines=Reconnaissance+%E2%86%92+Enumeration+%E2%86%92+Validation;Evidence+%E2%86%92+Analysis+%E2%86%92+Documentation;Build+%E2%86%92+Review+%E2%86%92+Improve" alt="Security methodology animation" />
+</p>
+
 ## 🧭 Security Methodology
 
-```text
+<pre>
 Reconnaissance
       ↓
 Enumeration
@@ -158,11 +172,15 @@ Document Evidence & Reasoning
 Build / Automate Where Useful
       ↓
 Review & Improve
-```
+</pre>
 
 I focus on understanding **why a vulnerability or security weakness exists, what evidence supports it, how it can be validated safely, and what the result means for the overall attack surface**.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0d1117,100:161b22" width="100%" alt="footer" />
+</p>
 
 <p align="center">
   <sub>Open to junior penetration-testing and cybersecurity opportunities.</sub>
