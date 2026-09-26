@@ -14,7 +14,7 @@
 
 <br>
 
-## `NODE 00` // WHOAMI
+## WHOAMI
 
 ```text
 $ whoami
@@ -33,7 +33,7 @@ My learning is centered around understanding **why an attack works**, how system
 
 ---
 
-## `NODE 01` // SECURITY STACK
+## SECURITY STACK
 
 <div align="center">
 
@@ -101,7 +101,7 @@ My learning is centered around understanding **why an attack works**, how system
 
 ---
 
-## `NODE 02` // SECURITY PROJECTS
+## SECURITY PROJECTS
 
 <div align="center">
 
@@ -116,6 +116,7 @@ My learning is centered around understanding **why an attack works**, how system
 A Python-based security reconnaissance framework designed to organize reconnaissance into a structured pipeline rather than treating scanners as isolated utilities.
 
 **Focus areas:**
+
 - Asset discovery & normalization
 - DNS / WHOIS / certificate intelligence
 - Port & service discovery
@@ -128,8 +129,11 @@ A Python-based security reconnaissance framework designed to organize reconnaiss
 - Evidence-driven prioritization
 - JSON & HTML reporting
 
-**Repository:**  
-https://github.com/01-x3r0n3/ReconHound
+<br>
+
+<a href="https://github.com/01-x3r0n3/ReconHound">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-087F73?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -142,6 +146,7 @@ https://github.com/01-x3r0n3/ReconHound
 A Python-based keylogging project developed as a controlled security-learning project to understand keyboard event capture, logging architecture, and the security implications of input monitoring.
 
 **Focus areas:**
+
 - Keyboard event handling
 - Input capture architecture
 - Local logging
@@ -151,8 +156,11 @@ A Python-based keylogging project developed as a controlled security-learning pr
 
 The project is intended for **authorized educational and research environments**.
 
-**Repository:**  
-https://github.com/01-x3r0n3/KeyLogix
+<br>
+
+<a href="https://github.com/01-x3r0n3/KeyLogix">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8F3045?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -162,15 +170,65 @@ https://github.com/01-x3r0n3/KeyLogix
 
 ---
 
-## `NODE 03` // PRACTICAL LABS
+## PRACTICAL LABS
 
 Hands-on work is a major part of my learning process.
 
-| Platform | Focus |
-|---|---|
-| [TryHackMe](https://github.com/01-x3r0n3/TryHackMe-Labs) | Structured penetration-testing labs and practical security exercises |
-| [PortSwigger](https://github.com/01-x3r0n3/PortSwigger-Labs) | Web application security labs and vulnerability research |
-| [Hack The Box](https://github.com/01-x3r0n3/HTB-Labs) | Enumeration, exploitation, Linux/Windows systems and privilege escalation |
+<table>
+<tr>
+<td valign="middle" width="75%">
+
+### TryHackMe
+
+Structured penetration-testing labs, security exercises, and practical enumeration work.
+
+</td>
+
+<td align="right" valign="middle" width="25%">
+
+<a href="https://github.com/01-x3r0n3/TryHackMe-Labs">
+<img src="https://img.shields.io/badge/REPOSITORY-087F73?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### PortSwigger Web Security Academy
+
+Web application security labs covering practical vulnerability classes, request manipulation, authentication, access control, client-side security, and related topics.
+
+</td>
+
+<td align="right" valign="middle">
+
+<a href="https://github.com/01-x3r0n3/PortSwigger-Labs">
+<img src="https://img.shields.io/badge/REPOSITORY-8F3045?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### Hack The Box
+
+Practical machines focused on enumeration, service analysis, initial access, Linux/Windows systems, and privilege escalation.
+
+</td>
+
+<td align="right" valign="middle">
+
+<a href="https://github.com/01-x3r0n3/HTB-Labs">
+<img src="https://img.shields.io/badge/REPOSITORY-49345F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ### Practical coverage
 
@@ -193,7 +251,7 @@ Hands-on work is a major part of my learning process.
 
 ---
 
-## `NODE 04` // FOUNDATIONS
+## FOUNDATIONS
 
 ### Security
 
@@ -228,7 +286,7 @@ Hands-on work is a major part of my learning process.
 
 ---
 
-## `NODE 05` // METHODOLOGY
+## METHODOLOGY
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=700&color=00BFA6&center=true&vCenter=true&width=850&lines=ENUMERATE+%E2%86%92+OBSERVE+%E2%86%92+HYPOTHESIZE+%E2%86%92+TEST+%E2%86%92+VERIFY+%E2%86%92+DOCUMENT" />
 
@@ -268,7 +326,7 @@ This keeps practical work focused on understanding the attack surface rather tha
 
 ---
 
-## `NODE 06` // CURRENT FOCUS
+## CURRENT FOCUS
 
 <div align="center">
 
