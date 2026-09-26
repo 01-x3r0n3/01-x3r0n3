@@ -1,339 +1,307 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=MUHAMMAD%20AFFAN&fontSize=44&fontColor=E8FFF0&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%2F%20CYBERSECURITY%20%2F%2F%20RESEARCH&descAlignY=61&descSize=16&animation=twinkling&color=0:020605,30:06140D,55:168F5A,78:0D0D18,100:020205" width="100%" alt="Muhammad Affan — Offensive Security and Cybersecurity" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=48C78E&background=00000000&center=true&vCenter=true&width=820&height=55&lines=%5B+SYSTEM+ONLINE+%5D;BS+Computer+Science+%7C+Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Build.+Break.+Understand.+Document.+Improve" alt="Cybersecurity introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MUHAMMAD%20AFFAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%2F%20CYBERSECURITY%20%2F%2F%20RESEARCH&descAlignY=58&descSize=17&color=0:020605,35:061412,65:087F73,82:49345F,100:020205" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2A9D68,40:187A52,70:9E3047,100:563A78" width="86%" alt="Security-themed divider" />
-</p>
+<br>
 
-<p align="center">
-  <sub><code>NODE 00</code> // 🛰️ IDENTITY &amp; FOCUS</sub>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00BFA6&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+ONLINE+%5D;BS+Computer+Science+%7C+Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Build.+Break.+Understand.+Document.+Improve." />
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                            │
-│                                                                      │
-│  Muhammad Affan                                                      │
-│  BS Computer Science — COMSATS University Islamabad                  │
-│  2023–2027                                                           │
-│                                                                      │
-│  $ focus                                                             │
-│  Cybersecurity · Penetration Testing · Web Security · Security       │
-│  Research                                                            │
-│                                                                      │
-│  $ approach                                                          │
-│  Learn → Practice → Document → Build → Improve                       │
-└──────────────────────────────────────────────────────────────────────┘
-</pre>
+<br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2A9D68,40:187A52,70:9E3047,100:563A78" width="74%" alt="Security-themed divider" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:087F73,50:00BFA6,100:49345F" width="82%"/>
+
+</div>
+
+<br>
+
+## `NODE 00` // WHOAMI
+
+```text
+$ whoami
+Muhammad Affan
+
+$ focus
+Offensive Security • Web Security • Reconnaissance
+
+$ approach
+Build → Break → Understand → Document → Improve
+```
+
+I am a **Computer Science student** focused on developing practical cybersecurity skills through hands-on labs, security research, penetration-testing methodology, and security tooling.
+
+My learning is centered around understanding **why an attack works**, how systems expose attack surfaces, how findings can be reproduced, and how technical observations can be documented clearly.
 
 ---
 
-## `NODE 01` // 🔐 SECURITY KNOWLEDGE & SKILLS
+## `NODE 01` // SECURITY STACK
 
-My cybersecurity learning is centered around understanding how systems, applications, networks, and security controls work, followed by hands-on testing in controlled environments.
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🟢 RECON & NETWORKING
+
+<img src="https://img.shields.io/badge/Nmap-087F73?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/DNS-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/WHOIS-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTTP%2FS-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SMB-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPC-087F73?style=for-the-badge&logoColor=white"/>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🔴 WEB & OFFENSIVE SECURITY
+
+<img src="https://img.shields.io/badge/Burp_Suite-8F3045?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Security-8F3045?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/XSS-8F3045?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSRF-8F3045?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Access_Control-8F3045?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Authentication-8F3045?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-8F3045?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🟢 SYSTEMS & PROGRAMMING
+
+<img src="https://img.shields.io/badge/Linux-087F73?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-087F73?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-087F73?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-087F73?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-087F73?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+
+<td valign="top">
+
+### 🟣 SECURITY CONCEPTS
+
+<img src="https://img.shields.io/badge/Enumeration-49345F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Privilege_Escalation-49345F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Session_Security-49345F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network_Services-49345F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vulnerability_Analysis-49345F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security_Research-49345F?style=for-the-badge&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `NODE 02` // SECURITY PROJECTS
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<p align="center">
-<img src="https://img.shields.io/badge/NETWORK%20%26%20INFRASTRUCTURE-48C78E?style=for-the-badge&labelColor=07130E" alt="Network and Infrastructure" />
-</p>
+### 🟢 ReconHound
 
-- Networking fundamentals and common protocols
-- Network and service enumeration
-- Host and service discovery
-- SMB / RPC concepts
-- Remote-service enumeration
+**Authorized Reconnaissance & Attack-Surface Discovery**
+
+A Python-based security reconnaissance framework designed to organize reconnaissance into a structured pipeline rather than treating scanners as isolated utilities.
+
+**Focus areas:**
+- Asset discovery & normalization
+- DNS / WHOIS / certificate intelligence
+- Port & service discovery
+- HTTP & technology analysis
 - Virtual-host discovery
-- Network service security concepts
-- Windows and Linux security fundamentals
-- Enumeration-driven security testing
-- Privilege-escalation fundamentals
-
-</td>
-
-<td width="50%" valign="top">
-
-<p align="center">
-<img src="https://img.shields.io/badge/WEB%20APPLICATION%20SECURITY-C95A70?style=for-the-badge&labelColor=16090D" alt="Web Application Security" />
-</p>
-
-- Reflected, stored, and DOM-based XSS
-- CSRF and SameSite security
-- Authentication and session security
-- Access-control testing
-- HTTP request manipulation
-- LFI / RFI concepts
-- Server-side template injection concepts
-- Web and API enumeration
-- Client-side security concepts
-- Security misconfiguration analysis
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<p align="center">
-<img src="https://img.shields.io/badge/RECONNAISSANCE%20%26%20ASSESSMENT-48C78E?style=for-the-badge&labelColor=07130E" alt="Reconnaissance and Assessment" />
-</p>
-
-- Passive and active reconnaissance
-- DNS and subdomain concepts
-- Attack-surface mapping
-- Endpoint discovery
-- Technology and service identification
-- Vulnerability identification and analysis
-- Evidence-based security assessment
+- Web crawling & endpoint discovery
+- JavaScript analysis
+- Public-code security indicators
 - Vulnerability intelligence
-- Security research
+- Evidence-driven prioritization
+- JSON & HTML reporting
+
+**Repository:**  
+https://github.com/01-x3r0n3/ReconHound
 
 </td>
 
 <td width="50%" valign="top">
 
-<p align="center">
-<img src="https://img.shields.io/badge/OS%20%26%20PRIVILEGE%20ESCALATION-C95A70?style=for-the-badge&labelColor=16090D" alt="Operating Systems and Privilege Escalation" />
-</p>
+### 🔴 KeyLogix
 
-- Linux fundamentals
-- Windows fundamentals
-- Linux privilege escalation
-- Windows privilege escalation
-- File permissions and ownership
-- Processes, services, users, and groups
-- Environment and configuration analysis
-- Local system enumeration
+**Python Keylogging Security Research**
 
-</td>
-</tr>
+A Python-based keylogging project developed as a controlled security-learning project to understand keyboard event capture, logging architecture, and the security implications of input monitoring.
 
-<tr>
-<td colspan="2" valign="top">
+**Focus areas:**
+- Keyboard event handling
+- Input capture architecture
+- Local logging
+- Python implementation
+- Security implications
+- Defensive understanding
 
-<p align="center">
-<img src="https://img.shields.io/badge/PROGRAMMING%20%26%20AUTOMATION-48C78E?style=for-the-badge&labelColor=07130E" alt="Programming and Automation" />
-</p>
+The project is intended for **authorized educational and research environments**.
 
-- Python
-- Bash / Linux shell fundamentals
-- SQL and database fundamentals
-- Relational database concepts
-- NoSQL database concepts
-- Operating-system fundamentals
-- Networking fundamentals
-- Data structures and programming fundamentals
-- Git and version-control fundamentals
+**Repository:**  
+https://github.com/01-x3r0n3/KeyLogix
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2A9D68,40:187A52,70:9E3047,100:563A78" width="74%" alt="Security-themed divider" />
-</p>
+</div>
 
 ---
 
-## `NODE 02` // 🛠️ SECURITY PROJECTS
+## `NODE 03` // PRACTICAL LABS
 
-### 🔍 ReconHound
+Hands-on work is a major part of my learning process.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:48C78E,100:187A52" width="65%" alt="ReconHound accent" />
-</p>
+| Platform | Focus |
+|---|---|
+| [TryHackMe](https://github.com/01-x3r0n3/TryHackMe-Labs) | Structured penetration-testing labs and practical security exercises |
+| [PortSwigger](https://github.com/01-x3r0n3/PortSwigger-Labs) | Web application security labs and vulnerability research |
+| [Hack The Box](https://github.com/01-x3r0n3/HTB-Labs) | Enumeration, exploitation, Linux/Windows systems and privilege escalation |
 
-**Python-based reconnaissance and attack-surface discovery framework designed for authorized security assessments.**
+### Practical coverage
 
-ReconHound focuses on collecting, normalizing, correlating, and prioritizing reconnaissance data rather than performing exploitation.
-
-Key architectural areas include:
-
-- Centralized asset graph
-- Evidence tracking
-- Relationship-aware analysis
-- Risk engine
-- Vulnerability intelligence
-- Multi-stage reconnaissance pipeline
-
-The project currently contains **22 independently testable modules and 5,000+ tests**.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RECON-48C78E?style=flat-square&labelColor=07130E" alt="Recon" />
-  <img src="https://img.shields.io/badge/ATTACK--SURFACE%20DISCOVERY-48C78E?style=flat-square&labelColor=07130E" alt="Attack Surface Discovery" />
-  <img src="https://img.shields.io/badge/AUTOMATION-48C78E?style=flat-square&labelColor=07130E" alt="Automation" />
-  <img src="https://img.shields.io/badge/INTELLIGENCE-48C78E?style=flat-square&labelColor=07130E" alt="Intelligence" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/01-x3r0n3/ReconHound">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20RECONHOUND-48C78E?style=for-the-badge&logo=github&logoColor=07130E&labelColor=0C1D15" alt="Explore ReconHound" />
-  </a>
-</p>
+- Web application security
+- HTTP request analysis
+- Authentication & session security
+- Access control
+- XSS
+- CSRF
+- CSP-related vulnerabilities
+- File inclusion concepts
+- Network enumeration
+- SMB / RPC / NetBIOS
+- Linux privilege escalation
+- Windows privilege escalation
+- Service enumeration
+- Misconfiguration analysis
+- Initial access methodology
+- Post-exploitation fundamentals
 
 ---
 
-### ⌨️ KeyLogix
+## `NODE 04` // FOUNDATIONS
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:C95A70,100:7D2438" width="65%" alt="KeyLogix accent" />
-</p>
+### Security
 
-**Python-based keylogging research project developed in a controlled security-learning environment.**
+- Penetration-testing methodology
+- Reconnaissance & enumeration
+- Vulnerability analysis
+- Web application security
+- Network security fundamentals
+- Linux & Windows security fundamentals
+- Privilege escalation fundamentals
+- Security documentation & reporting
 
-The project explores keyboard event capture, logging architecture, and the security implications of input monitoring while providing practical experience with Python-based security tooling.
+### Computer Science
 
-<p align="center">
-  <img src="https://img.shields.io/badge/KEYBOARD%20EVENT%20CAPTURE-C95A70?style=flat-square&labelColor=16090D" alt="Keyboard Event Capture" />
-  <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-C95A70?style=flat-square&labelColor=16090D" alt="Security Research" />
-  <img src="https://img.shields.io/badge/INPUT%20MONITORING-C95A70?style=flat-square&labelColor=16090D" alt="Input Monitoring" />
-  <img src="https://img.shields.io/badge/PYTHON-C95A70?style=flat-square&labelColor=16090D" alt="Python" />
-</p>
+- Python
+- SQL
+- Data structures & programming fundamentals
+- Operating systems
+- Computer networks
+- Databases
+- Information security
 
-<p align="center">
-  <a href="https://github.com/01-x3r0n3/KeyLogix">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20KEYLOGIX-C95A70?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=16090D" alt="Explore KeyLogix" />
-  </a>
-</p>
+### Security tooling
 
----
-
-## `NODE 03` // 📚 HANDS-ON LABS & WRITE-UPS
-
-I document practical security work with an emphasis on **methodology, reasoning, observations, evidence, and lessons learned** rather than simply recording completion.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-48C78E?style=for-the-badge&logo=tryhackme&logoColor=07130E&labelColor=0C1D15" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/PORTSWIGGER-C95A70?style=for-the-badge&logo=portswigger&logoColor=FFFFFF&labelColor=16090D" alt="PortSwigger" />
-  <img src="https://img.shields.io/badge/HACK%20THE%20BOX-6CCB9E?style=for-the-badge&logo=hackthebox&logoColor=07130E&labelColor=0C1D15" alt="Hack The Box" />
-</p>
-
-| Platform | Focus | Repository |
-|---|---|---|
-| 🧩 **TryHackMe** | Junior Penetration Tester pathway and practical security labs | [TryHackMe-Labs](https://github.com/01-x3r0n3/TryHackMe-Labs) |
-| 🌐 **PortSwigger** | Web Security Academy labs and web vulnerability research | [PortSwigger-Labs](https://github.com/01-x3r0n3/PortSwigger-Labs) |
-| 🛡️ **Hack The Box** | Starting Point and practical penetration-testing machines | [HTB-Labs](https://github.com/01-x3r0n3/HTB-Labs) |
+- Kali Linux
+- Burp Suite
+- Nmap
+- Metasploit
+- Git / GitHub
+- OpenVPN
+- Common Linux security utilities
 
 ---
 
-## `NODE 04` // 🎓 SECURITY FOUNDATIONS
+## `NODE 05` // METHODOLOGY
 
-<p align="center">
-  <sub><code>FOUNDATIONS → PRACTICE → PROJECTS → CONTINUOUS LEARNING</code></sub>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=700&color=00BFA6&center=true&vCenter=true&width=850&lines=ENUMERATE+%E2%86%92+OBSERVE+%E2%86%92+HYPOTHESIZE+%E2%86%92+TEST+%E2%86%92+VERIFY+%E2%86%92+DOCUMENT" />
 
-- **Google Cybersecurity Certificate**
-- **TryHackMe Junior Penetration Tester pathway**
-- **PortSwigger Web Security Academy hands-on labs**
-- **BS Computer Science — COMSATS University Islamabad**
-- Computer science foundations in networking, operating systems, databases, programming, and information security
-
----
-
-## `NODE 05` // 🧭 SECURITY METHODOLOGY
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=900&color=48C78E&background=00000000&center=true&vCenter=true&width=760&height=40&lines=RECONNAISSANCE+%E2%86%92+ENUMERATION+%E2%86%92+VALIDATION;MAP+THE+ATTACK+SURFACE+%E2%86%92+IDENTIFY+WEAKNESSES;DOCUMENT+EVIDENCE+%E2%86%92+BUILD+%E2%86%92+REVIEW+%26+IMPROVE" alt="Security methodology pipeline" />
-</p>
+<br>
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
-
-🛰️  
-**01**  
-**RECONNAISSANCE**
-
-</td>
-<td align="center" width="25%">
-
-🔎  
-**02**  
-**ENUMERATION**
-
-</td>
-<td align="center" width="25%">
-
-🗺️  
-**03**  
-**ATTACK SURFACE MAPPING**
-
-</td>
-<td align="center" width="25%">
-
-⚠️  
-**04**  
-**WEAKNESS IDENTIFICATION**
-
-</td>
+<td align="center"><b>01</b><br>Enumerate</td>
+<td>→</td>
+<td align="center"><b>02</b><br>Observe</td>
+<td>→</td>
+<td align="center"><b>03</b><br>Hypothesize</td>
+<td>→</td>
+<td align="center"><b>04</b><br>Test</td>
 </tr>
 
 <tr>
-<td align="center">
-
-🧪  
-**05**  
-**VALIDATE FINDINGS**
-
-</td>
-<td align="center">
-
-📑  
-**06**  
-**DOCUMENT EVIDENCE**
-
-</td>
-<td align="center">
-
-⚙️  
-**07**  
-**BUILD / AUTOMATE**
-
-</td>
-<td align="center">
-
-♻️  
-**08**  
-**REVIEW & IMPROVE**
-
-</td>
+<td align="center"><b>05</b><br>Verify</td>
+<td>→</td>
+<td align="center"><b>06</b><br>Understand</td>
+<td>→</td>
+<td align="center"><b>07</b><br>Document</td>
+<td>→</td>
+<td align="center"><b>08</b><br>Improve</td>
 </tr>
 </table>
 
-I focus on understanding **why a vulnerability or security weakness exists, what evidence supports it, how it can be validated safely, and what the result means for the overall attack surface**.
+<br>
+
+> **Don't just run the command — understand the result.**
+
+My approach is to connect each action to the observation that caused it.
+
+**Enumeration → Observation → Hypothesis → Test → Evidence → Interpretation → Next decision**
+
+This keeps practical work focused on understanding the attack surface rather than blindly following command lists.
 
 ---
 
-## `NODE 06` // 📡 CURRENT FOCUS
+## `NODE 06` // CURRENT FOCUS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WEB%20SECURITY-C95A70?style=for-the-badge&labelColor=16090D" alt="Web Security" />
-  <img src="https://img.shields.io/badge/RECONNAISSANCE-48C78E?style=for-the-badge&labelColor=07130E" alt="Reconnaissance" />
-  <img src="https://img.shields.io/badge/PENETRATION%20TESTING-C95A70?style=for-the-badge&labelColor=16090D" alt="Penetration Testing" />
-  <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-A98BC7?style=for-the-badge&labelColor=120E18" alt="Security Research" />
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Continuously learning through hands-on labs, security research, technical projects, and documented practice.</sub>
-</p>
+<img src="https://img.shields.io/badge/WEB_SECURITY-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RECONNAISSANCE-087F73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-8F3045?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX_SECURITY-087F73?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/WINDOWS_SECURITY-49345F?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/SECURITY_RESEARCH-49345F?style=for-the-badge&logoColor=white"/>
 
-<p align="center">
-  <b>Open to junior penetration-testing and cybersecurity opportunities.</b>
-</p>
+</div>
+
+<br>
+
+Currently expanding practical knowledge in:
+
+- Advanced web application security
+- Linux & Windows privilege escalation
+- Active Directory fundamentals
+- Network security
+- Cloud security fundamentals
+- Security automation with Python
+- AI security and emerging attack surfaces
+- Low-level systems and security concepts
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:020605,30:06140D,55:168F5A,75:0D0D18,100:020205" width="100%" alt="Cybersecurity portfolio footer" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:49345F,50:087F73,100:00BFA6" width="65%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20UNDERSTAND%20%E2%80%A2%20IMPROVE&fontSize=18&fontColor=ffffff&fontAlignY=60&color=0:020205,45:49345F,75:087F73,100:061412" width="100%"/>
+
+</div>
