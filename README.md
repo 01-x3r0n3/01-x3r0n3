@@ -1,47 +1,51 @@
-<h1 align="center">Muhammad Affan</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MUHAMMAD%20AFFAN&fontSize=44&fontColor=E6F7FF&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%2F%20CYBERSECURITY%20%2F%2F%20RESEARCH&descAlignY=61&descSize=16&animation=twinkling&color=0:050A14,25:071A2B,50:00D9FF,75:7B2CFF,100:050A14" width="100%" alt="Muhammad Affan cyberpunk header" />
+</h1>
 
 <p align="center">
-  <b>BS Computer Science Student · Aspiring Penetration Tester · Offensive Security</b>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=00E5FF&background=00000000&center=true&vCenter=true&width=820&height=55&lines=%5B+SYSTEM+ONLINE+%5D;BS+Computer+Science+%7C+Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Build.+Break.+Understand.+Document.+Improve." alt="Animated cybersecurity introduction" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1100&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=BS+Computer+Science+Student;Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Building+Security+Projects+%26+Documenting+Hands-On+Work" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,35:7B2CFF,65:FF00C8,100:00E5FF" width="88%" alt="neon divider" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:7C3AED,100:58A6FF" width="85%" alt="animated divider" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&pause=900&duration=2500&color=8B949E&center=true&vCenter=true&width=650&lines=%5B+RECON+%5D+%E2%86%92+%5BENUMERATION%5D+%E2%86%92+%5BVALIDATION%5D+%E2%86%92+%5BANALYSIS%5D" alt="Security workflow animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=12&duration=1800&pause=500&color=7FDBFF&background=00000000&center=true&vCenter=true&width=720&height=35&lines=%5B%5B+INITIALIZING+SECURITY+PROFILE...+%5D%5D;%5B%5B+LOADING+RECON+MODULES...+%5D%5D;%5B%5B+MAPPING+ATTACK+SURFACE...+%5D%5D;%5B%5B+SYSTEM+READY+FOR+ANALYSIS+%5D%5D" alt="System initialization animation" />
 </p>
 
 <pre>
-$ whoami
-Muhammad Affan
-BS Computer Science — COMSATS University Islamabad
-2023–2027
-
-$ focus
-Cybersecurity · Penetration Testing · Web Security · Security Research
-
-$ approach
-Learn → Practice → Document → Build → Improve
+┌──────────────────────────────────────────────────────────────────────┐
+│  $ whoami                                                            │
+│                                                                      │
+│  Muhammad Affan                                                      │
+│  BS Computer Science — COMSATS University Islamabad                  │
+│  2023–2027                                                           │
+│                                                                      │
+│  $ focus                                                             │
+│  Cybersecurity · Penetration Testing · Web Security · Security       │
+│  Research                                                            │
+│                                                                      │
+│  $ approach                                                          │
+│  Learn → Practice → Document → Build → Improve                       │
+└──────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:0D1117,50:161B22,100:0D1117" width="100%" alt="section transition" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=700&color=FF4FD8&background=00000000&center=true&vCenter=true&width=650&height=32&lines=%5B+RECON+%5D+%E2%86%92+%5BENUMERATION%5D+%E2%86%92+%5BVALIDATION%5D+%E2%86%92+%5BANALYSIS+%5D" alt="Security pipeline animation" />
 </p>
 
-## 🔐 Security Knowledge & Skills
+---
+
+## `01` // 🔐 SECURITY KNOWLEDGE & SKILLS
 
 My cybersecurity learning is centered around understanding how systems, applications, networks, and security controls work, followed by hands-on testing in controlled environments.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WEB_SECURITY-Active-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Web Security" />
-  <img src="https://img.shields.io/badge/NETWORK_SECURITY-Active-161B22?style=for-the-badge&logo=protonvpn&logoColor=58A6FF" alt="Network Security" />
-  <img src="https://img.shields.io/badge/OS_SECURITY-Active-161B22?style=for-the-badge&logo=linux&logoColor=58A6FF" alt="OS Security" />
-  <img src="https://img.shields.io/badge/RECONNAISSANCE-Active-161B22?style=for-the-badge&logo=target&logoColor=58A6FF" alt="Reconnaissance" />
+  <img src="https://img.shields.io/badge/WEB_SECURITY-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=07111F" alt="Web Security" />
+  <img src="https://img.shields.io/badge/NETWORK_SECURITY-7B2CFF?style=for-the-badge&logo=protonvpn&logoColor=FFFFFF&labelColor=07111F" alt="Network Security" />
+  <img src="https://img.shields.io/badge/OS_SECURITY-FF00C8?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=07111F" alt="OS Security" />
+  <img src="https://img.shields.io/badge/RECONNAISSANCE-00FF9C?style=for-the-badge&logo=target&logoColor=000000&labelColor=07111F" alt="Reconnaissance" />
 </p>
 
 ### 🌐 Web Application Security
@@ -112,51 +116,60 @@ My cybersecurity learning is centered around understanding how systems, applicat
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:161B22,50:58A6FF,100:161B22" width="70%" alt="animated divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:FF00C8,100:7B2CFF" width="72%" alt="neon section divider" />
 </p>
 
-## 🛠️ Security Projects
+## `02` // 🛠️ SECURITY PROJECTS
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1400&duration=2800&color=58A6FF&center=true&vCenter=true&width=600&lines=BUILDING+%E2%86%92+TESTING+%E2%86%92+DOCUMENTING+%E2%86%92+IMPROVING" alt="Project workflow animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2300&pause=650&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&height=35&lines=%5B+BUILD+%5D+%E2%86%92+%5BTEST+%5D+%E2%86%92+%5BAUDIT+%5D+%E2%86%92+%5BIMPROVE+%5D;%5B+ENGINEERING+SECURITY+TOOLS+%5D" alt="Project workflow animation" />
 </p>
 
 ### 🔍 ReconHound
 
-A Python-based reconnaissance and attack-surface discovery framework designed for authorized security assessments.
+**Python-based reconnaissance and attack-surface discovery framework designed for authorized security assessments.**
 
-ReconHound focuses on collecting, normalizing, correlating, and prioritizing reconnaissance data rather than performing exploitation. Its architecture includes a centralized asset graph, evidence tracking, relationship-aware analysis, a risk engine, and vulnerability intelligence.
+ReconHound focuses on collecting, normalizing, correlating, and prioritizing reconnaissance data rather than performing exploitation.
+
+Its architecture includes:
+
+- Centralized asset graph
+- Evidence tracking
+- Relationship-aware analysis
+- Risk engine
+- Vulnerability intelligence
+- Multi-stage reconnaissance pipeline
 
 The project currently contains **22 independently testable modules and 5,000+ tests**.
 
 <p align="center">
   <a href="https://github.com/01-x3r0n3/ReconHound">
-    <img src="https://img.shields.io/badge/EXPLORE_RECONHOUND-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore ReconHound" />
+    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20RECONHOUND-00E5FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=07111F" alt="Explore ReconHound" />
   </a>
 </p>
 
 ### ⌨️ KeyLogix
 
-A Python-based keylogging research project developed in a controlled security-learning environment.
+**Python-based keylogging research project developed in a controlled security-learning environment.**
 
 The project explores keyboard event capture, logging architecture, and the security implications of input monitoring while providing practical experience with Python-based security tooling.
 
 <p align="center">
   <a href="https://github.com/01-x3r0n3/KeyLogix">
-    <img src="https://img.shields.io/badge/EXPLORE_KEYLOGIX-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore KeyLogix" />
+    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20KEYLOGIX-FF00C8?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=07111F" alt="Explore KeyLogix" />
   </a>
 </p>
 
 ---
 
-## 📚 Hands-On Labs & Write-ups
+## `03` // 📚 HANDS-ON LABS & WRITE-UPS
 
 I document practical security work with an emphasis on **methodology, reasoning, observations, and lessons learned** rather than simply recording completion.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-Labs-161B22?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/PORTSWIGGER-Web%20Security-161B22?style=for-the-badge&logo=portswigger&logoColor=FF6633" alt="PortSwigger" />
-  <img src="https://img.shields.io/badge/HACK%20THE%20BOX-Pentesting-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/TRYHACKME-00E5FF?style=for-the-badge&logo=tryhackme&logoColor=000000&labelColor=07111F" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/PORTSWIGGER-FF6633?style=for-the-badge&logo=portswigger&logoColor=FFFFFF&labelColor=07111F" alt="PortSwigger" />
+  <img src="https://img.shields.io/badge/HACK%20THE%20BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=07111F" alt="Hack The Box" />
 </p>
 
 | Platform | Focus | Repository |
@@ -167,10 +180,10 @@ I document practical security work with an emphasis on **methodology, reasoning,
 
 ---
 
-## 🎓 Security Foundations
+## `04` // 🎓 SECURITY FOUNDATIONS
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1600&duration=2600&color=8B949E&center=true&vCenter=true&width=600&lines=FOUNDATIONS+%E2%86%92+PRACTICE+%E2%86%92+PROJECTS+%E2%86%92+CONTINUOUS+LEARNING" alt="Learning progression animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=700&color=7FDBFF&background=00000000&center=true&vCenter=true&width=680&height=32&lines=FOUNDATIONS+%E2%86%92+PRACTICE+%E2%86%92+PROJECTS+%E2%86%92+CONTINUOUS+LEARNING" alt="Learning progression animation" />
 </p>
 
 - **Google Cybersecurity Certificate**
@@ -181,28 +194,49 @@ I document practical security work with an emphasis on **methodology, reasoning,
 
 ---
 
-## 🧭 Security Methodology
+## `05` // 🧭 SECURITY METHODOLOGY
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&duration=2200&color=58A6FF&center=true&vCenter=true&width=720&lines=RECON+%E2%86%92+ENUMERATION+%E2%86%92+UNDERSTAND+%E2%86%92+VALIDATE;EVIDENCE+%E2%86%92+ANALYZE+%E2%86%92+DOCUMENT+%E2%86%92+IMPROVE" alt="Security methodology animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&width=760&height=35&lines=%5B+01+%5D+RECON;%5B+02+%5D+ENUMERATION;%5B+03+%5D+UNDERSTAND;%5B+04+%5D+VALIDATE;%5B+05+%5D+DOCUMENT;%5B+06+%5D+IMPROVE" alt="Security methodology animation" />
 </p>
 
 <pre>
-Reconnaissance
-      ↓
-Enumeration
-      ↓
-Understand the Attack Surface
-      ↓
-Identify Potential Weaknesses
-      ↓
-Validate Findings
-      ↓
-Document Evidence & Reasoning
-      ↓
-Build / Automate Where Useful
-      ↓
-Review & Improve
+                    ┌─────────────────┐
+                    │  RECONNAISSANCE │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   ENUMERATION   │
+                    └────────┬────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │ UNDERSTAND ATTACK     │
+                 │       SURFACE         │
+                 └───────────┬───────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │ IDENTIFY POTENTIAL    │
+                 │      WEAKNESSES       │
+                 └───────────┬───────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    VALIDATE     │
+                    │    FINDINGS     │
+                    └────────┬────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │ DOCUMENT EVIDENCE &   │
+                 │      REASONING        │
+                 └───────────┬───────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │ BUILD / AUTOMATE      │
+                 │     WHERE USEFUL      │
+                 └───────────┬───────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ REVIEW & IMPROVE│
+                    └─────────────────┘
 </pre>
 
 I focus on understanding **why a vulnerability or security weakness exists, what evidence supports it, how it can be validated safely, and what the result means for the overall attack surface**.
@@ -210,13 +244,17 @@ I focus on understanding **why a vulnerability or security weakness exists, what
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:7C3AED,100:58A6FF" width="80%" alt="animated divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,30:7B2CFF,70:FF00C8,100:00E5FF" width="82%" alt="neon divider" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1800&center=true&vCenter=true&width=600&lines=Learn+%E2%80%A2+Practice+%E2%80%A2+Document+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Closing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=900&color=00FF9C&background=00000000&center=true&vCenter=true&width=650&height=35&lines=%5B+SYSTEM+STATUS%3A+ONLINE+%5D;%5B+LEARN+%7C+PRACTICE+%7C+BUILD+%7C+RESEARCH+%5D;%5B+READY+FOR+THE+NEXT+ATTACK+SURFACE+%5D" alt="System status animation" />
 </p>
 
 <p align="center">
   <sub>Open to junior penetration-testing and cybersecurity opportunities.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:050A14,25:071A2B,50:00D9FF,75:7B2CFF,100:050A14" width="100%" alt="cyberpunk footer" />
 </p>
