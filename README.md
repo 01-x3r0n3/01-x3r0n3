@@ -143,7 +143,8 @@ A Python-based security reconnaissance framework designed to organize reconnaiss
 
 **Python Keylogging Security Research**
 
-A Python-based keylogging project developed as a controlled security-learning project to understand keyboard event capture, logging architecture, and the security implications of input monitoring.
+A Python-based keylogging project developed as a a Windows keylogger research project focused on low-level keystroke capture using Win32 APIs and NASM, background execution techniques, and controlled research into Windows Defender and endpoint-security detection and evasion.
+
 
 **Focus areas:**
 
@@ -151,7 +152,9 @@ A Python-based keylogging project developed as a controlled security-learning pr
 - Input capture architecture
 - Local logging
 - Python implementation
+- Stealth Mode
 - Security implications
+- Evading Microsoft Windows 7 Defender
 - Defensive understanding
 
 The project is intended for **authorized educational and research environments**.
