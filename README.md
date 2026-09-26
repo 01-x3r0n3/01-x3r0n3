@@ -24,7 +24,6 @@
 |----------------|-----------------|
 | 🧩 TryHackMe      | [TryHackMe Labs](https://github.com/01-x3r0n3/TryHackMe-Labs) |
 | 🌐 PortSwigger    | [PortSwigger Labs](https://github.com//01-x3r0n3/PortSwigger-Labs) |
-| 🛡️ HackTheBox     | [HackTheBox Writeups](https://github.com//01-x3r0n3/HTB-Labs) |
 
 ---
 
