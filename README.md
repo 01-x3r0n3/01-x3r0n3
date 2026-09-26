@@ -5,11 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Building+Security+Projects+%26+Documenting+Hands-On+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1100&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=BS+Computer+Science+Student;Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Building+Security+Projects+%26+Documenting+Hands-On+Work" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="80%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:7C3AED,100:58A6FF" width="85%" alt="animated divider" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&pause=900&duration=2500&color=8B949E&center=true&vCenter=true&width=650&lines=%5B+RECON+%5D+%E2%86%92+%5BENUMERATION%5D+%E2%86%92+%5BVALIDATION%5D+%E2%86%92+%5BANALYSIS%5D" alt="Security workflow animation" />
 </p>
 
 <pre>
@@ -25,11 +29,20 @@ $ approach
 Learn → Practice → Document → Build → Improve
 </pre>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:0D1117,50:161B22,100:0D1117" width="100%" alt="section transition" />
+</p>
 
 ## 🔐 Security Knowledge & Skills
 
 My cybersecurity learning is centered around understanding how systems, applications, networks, and security controls work, followed by hands-on testing in controlled environments.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WEB_SECURITY-Active-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Web Security" />
+  <img src="https://img.shields.io/badge/NETWORK_SECURITY-Active-161B22?style=for-the-badge&logo=protonvpn&logoColor=58A6FF" alt="Network Security" />
+  <img src="https://img.shields.io/badge/OS_SECURITY-Active-161B22?style=for-the-badge&logo=linux&logoColor=58A6FF" alt="OS Security" />
+  <img src="https://img.shields.io/badge/RECONNAISSANCE-Active-161B22?style=for-the-badge&logo=target&logoColor=58A6FF" alt="Reconnaissance" />
+</p>
 
 ### 🌐 Web Application Security
 
@@ -98,7 +111,15 @@ My cybersecurity learning is centered around understanding how systems, applicat
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:161B22,50:58A6FF,100:161B22" width="70%" alt="animated divider" />
+</p>
+
 ## 🛠️ Security Projects
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1400&duration=2800&color=58A6FF&center=true&vCenter=true&width=600&lines=BUILDING+%E2%86%92+TESTING+%E2%86%92+DOCUMENTING+%E2%86%92+IMPROVING" alt="Project workflow animation" />
+</p>
 
 ### 🔍 ReconHound
 
@@ -110,7 +131,7 @@ The project currently contains **22 independently testable modules and 5,000+ te
 
 <p align="center">
   <a href="https://github.com/01-x3r0n3/ReconHound">
-    <img src="https://img.shields.io/badge/View%20Repository-ReconHound-161b22?style=for-the-badge&logo=github&logoColor=white" alt="ReconHound repository" />
+    <img src="https://img.shields.io/badge/EXPLORE_RECONHOUND-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore ReconHound" />
   </a>
 </p>
 
@@ -122,7 +143,7 @@ The project explores keyboard event capture, logging architecture, and the secur
 
 <p align="center">
   <a href="https://github.com/01-x3r0n3/KeyLogix">
-    <img src="https://img.shields.io/badge/View%20Repository-KeyLogix-161b22?style=for-the-badge&logo=github&logoColor=white" alt="KeyLogix repository" />
+    <img src="https://img.shields.io/badge/EXPLORE_KEYLOGIX-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore KeyLogix" />
   </a>
 </p>
 
@@ -131,6 +152,12 @@ The project explores keyboard event capture, logging architecture, and the secur
 ## 📚 Hands-On Labs & Write-ups
 
 I document practical security work with an emphasis on **methodology, reasoning, observations, and lessons learned** rather than simply recording completion.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TRYHACKME-Labs-161B22?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/PORTSWIGGER-Web%20Security-161B22?style=for-the-badge&logo=portswigger&logoColor=FF6633" alt="PortSwigger" />
+  <img src="https://img.shields.io/badge/HACK%20THE%20BOX-Pentesting-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+</p>
 
 | Platform | Focus | Repository |
 | --- | --- | --- |
@@ -142,6 +169,10 @@ I document practical security work with an emphasis on **methodology, reasoning,
 
 ## 🎓 Security Foundations
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1600&duration=2600&color=8B949E&center=true&vCenter=true&width=600&lines=FOUNDATIONS+%E2%86%92+PRACTICE+%E2%86%92+PROJECTS+%E2%86%92+CONTINUOUS+LEARNING" alt="Learning progression animation" />
+</p>
+
 - **Google Cybersecurity Certificate**
 - **TryHackMe Junior Penetration Tester pathway**
 - **PortSwigger Web Security Academy hands-on labs**
@@ -150,11 +181,11 @@ I document practical security work with an emphasis on **methodology, reasoning,
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1800&center=true&vCenter=true&width=650&lines=Reconnaissance+%E2%86%92+Enumeration+%E2%86%92+Validation;Evidence+%E2%86%92+Analysis+%E2%86%92+Documentation;Build+%E2%86%92+Review+%E2%86%92+Improve" alt="Security methodology animation" />
-</p>
-
 ## 🧭 Security Methodology
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&duration=2200&color=58A6FF&center=true&vCenter=true&width=720&lines=RECON+%E2%86%92+ENUMERATION+%E2%86%92+UNDERSTAND+%E2%86%92+VALIDATE;EVIDENCE+%E2%86%92+ANALYZE+%E2%86%92+DOCUMENT+%E2%86%92+IMPROVE" alt="Security methodology animation" />
+</p>
 
 <pre>
 Reconnaissance
@@ -179,7 +210,11 @@ I focus on understanding **why a vulnerability or security weakness exists, what
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0d1117,100:161b22" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:7C3AED,100:58A6FF" width="80%" alt="animated divider" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1800&center=true&vCenter=true&width=600&lines=Learn+%E2%80%A2+Practice+%E2%80%A2+Document+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Closing animation" />
 </p>
 
 <p align="center">
