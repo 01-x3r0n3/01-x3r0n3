@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=MUHAMMAD%20AFFAN&fontSize=44&fontColor=E8FFF0&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%2F%20CYBERSECURITY%20%2F%2F%20RESEARCH&descAlignY=61&descSize=16&animation=twinkling&color=0:030806,30:071A12,55:00FF88,78:10101F,100:030306" width="100%" alt="Muhammad Affan — Offensive Security and Cybersecurity" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=MUHAMMAD%20AFFAN&fontSize=44&fontColor=E8FFF0&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%2F%20CYBERSECURITY%20%2F%2F%20RESEARCH&descAlignY=61&descSize=16&animation=twinkling&color=0:020605,30:06140D,55:168F5A,78:0D0D18,100:020205" width="100%" alt="Muhammad Affan — Offensive Security and Cybersecurity" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=00FF88&background=00000000&center=true&vCenter=true&width=820&height=55&lines=%5B+SYSTEM+ONLINE+%5D;BS+Computer+Science+%7C+Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Build.+Break.+Understand.+Document.+Improve" alt="Cybersecurity introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=48C78E&background=00000000&center=true&vCenter=true&width=820&height=55&lines=%5B+SYSTEM+ONLINE+%5D;BS+Computer+Science+%7C+Aspiring+Penetration+Tester;Web+Security+%7C+Reconnaissance+%7C+Offensive+Security;Build.+Break.+Understand.+Document.+Improve" alt="Cybersecurity introduction" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF88,35:00C853,65:FF1744,85:B388FF,100:7B1FA2" width="86%" alt="Neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2A9D68,40:187A52,70:9E3047,100:563A78" width="86%" alt="Security-themed divider" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF88,35:00C853,65:FF1744,85:B388FF,100:7B1FA2" width="74%" alt="Neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2A9D68,40:187A52,70:9E3047,100:563A78" width="74%" alt="Security-themed divider" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ My cybersecurity learning is centered around understanding how systems, applicat
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="https://img.shields.io/badge/NETWORK%20%26%20INFRASTRUCTURE-00FF88?style=for-the-badge&labelColor=06120C" alt="Network and Infrastructure" />
+<img src="https://img.shields.io/badge/NETWORK%20%26%20INFRASTRUCTURE-48C78E?style=for-the-badge&labelColor=07130E" alt="Network and Infrastructure" />
 </p>
 
 - Networking fundamentals and common protocols
@@ -65,7 +65,7 @@ My cybersecurity learning is centered around understanding how systems, applicat
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="https://img.shields.io/badge/WEB%20APPLICATION%20SECURITY-FF1744?style=for-the-badge&labelColor=16070A" alt="Web Application Security" />
+<img src="https://img.shields.io/badge/WEB%20APPLICATION%20SECURITY-C95A70?style=for-the-badge&labelColor=16090D" alt="Web Application Security" />
 </p>
 
 - Reflected, stored, and DOM-based XSS
@@ -86,7 +86,7 @@ My cybersecurity learning is centered around understanding how systems, applicat
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="https://img.shields.io/badge/RECONNAISSANCE%20%26%20ASSESSMENT-00FF88?style=for-the-badge&labelColor=06120C" alt="Reconnaissance and Assessment" />
+<img src="https://img.shields.io/badge/RECONNAISSANCE%20%26%20ASSESSMENT-48C78E?style=for-the-badge&labelColor=07130E" alt="Reconnaissance and Assessment" />
 </p>
 
 - Passive and active reconnaissance
@@ -104,7 +104,7 @@ My cybersecurity learning is centered around understanding how systems, applicat
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="https://img.shields.io/badge/OS%20%26%20PRIVILEGE%20ESCALATION-FF1744?style=for-the-badge&labelColor=16070A" alt="Operating Systems and Privilege Escalation" />
+<img src="https://img.shields.io/badge/OS%20%26%20PRIVILEGE%20ESCALATION-C95A70?style=for-the-badge&labelColor=16090D" alt="Operating Systems and Privilege Escalation" />
 </p>
 
 - Linux fundamentals
@@ -123,7 +123,7 @@ My cybersecurity learning is centered around understanding how systems, applicat
 <td colspan="2" valign="top">
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROGRAMMING%20%26%20AUTOMATION-00FF88?style=for-the-badge&labelColor=06120C" alt="Programming and Automation" />
+<img src="https://img.shields.io/badge/PROGRAMMING%20%26%20AUTOMATION-48C78E?style=for-the-badge&labelColor=07130E" alt="Programming and Automation" />
 </p>
 
 - Python
@@ -141,7 +141,7 @@ My cybersecurity learning is centered around understanding how systems, applicat
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF88,35:00C853,65:FF1744,85:B388FF,100:7B1FA2" width="74%" alt="Neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2A9D68,40:187A52,70:9E3047,100:563A78" width="74%" alt="Security-themed divider" />
 </p>
 
 ---
@@ -151,7 +151,7 @@ My cybersecurity learning is centered around understanding how systems, applicat
 ### 🔍 ReconHound
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00FF88,100:039C4B" width="70%" alt="ReconHound accent" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:48C78E,100:187A52" width="65%" alt="ReconHound accent" />
 </p>
 
 **Python-based reconnaissance and attack-surface discovery framework designed for authorized security assessments.**
@@ -170,15 +170,15 @@ Key architectural areas include:
 The project currently contains **22 independently testable modules and 5,000+ tests**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RECON-00FF88?style=flat-square&labelColor=06120C" alt="Recon" />
-  <img src="https://img.shields.io/badge/ATTACK--SURFACE%20DISCOVERY-00FF88?style=flat-square&labelColor=06120C" alt="Attack Surface Discovery" />
-  <img src="https://img.shields.io/badge/AUTOMATION-00FF88?style=flat-square&labelColor=06120C" alt="Automation" />
-  <img src="https://img.shields.io/badge/INTELLIGENCE-00FF88?style=flat-square&labelColor=06120C" alt="Intelligence" />
+  <img src="https://img.shields.io/badge/RECON-48C78E?style=flat-square&labelColor=07130E" alt="Recon" />
+  <img src="https://img.shields.io/badge/ATTACK--SURFACE%20DISCOVERY-48C78E?style=flat-square&labelColor=07130E" alt="Attack Surface Discovery" />
+  <img src="https://img.shields.io/badge/AUTOMATION-48C78E?style=flat-square&labelColor=07130E" alt="Automation" />
+  <img src="https://img.shields.io/badge/INTELLIGENCE-48C78E?style=flat-square&labelColor=07130E" alt="Intelligence" />
 </p>
 
 <p align="center">
   <a href="https://github.com/01-x3r0n3/ReconHound">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20RECONHOUND-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=06120C" alt="Explore ReconHound" />
+    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20RECONHOUND-48C78E?style=for-the-badge&logo=github&logoColor=07130E&labelColor=0C1D15" alt="Explore ReconHound" />
   </a>
 </p>
 
@@ -187,7 +187,7 @@ The project currently contains **22 independently testable modules and 5,000+ te
 ### ⌨️ KeyLogix
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF1744,100:7B0021" width="70%" alt="KeyLogix accent" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:C95A70,100:7D2438" width="65%" alt="KeyLogix accent" />
 </p>
 
 **Python-based keylogging research project developed in a controlled security-learning environment.**
@@ -195,15 +195,15 @@ The project currently contains **22 independently testable modules and 5,000+ te
 The project explores keyboard event capture, logging architecture, and the security implications of input monitoring while providing practical experience with Python-based security tooling.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/KEYBOARD%20EVENT%20CAPTURE-FF1744?style=flat-square&labelColor=16070A" alt="Keyboard Event Capture" />
-  <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-FF1744?style=flat-square&labelColor=16070A" alt="Security Research" />
-  <img src="https://img.shields.io/badge/INPUT%20MONITORING-FF1744?style=flat-square&labelColor=16070A" alt="Input Monitoring" />
-  <img src="https://img.shields.io/badge/PYTHON-FF1744?style=flat-square&labelColor=16070A" alt="Python" />
+  <img src="https://img.shields.io/badge/KEYBOARD%20EVENT%20CAPTURE-C95A70?style=flat-square&labelColor=16090D" alt="Keyboard Event Capture" />
+  <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-C95A70?style=flat-square&labelColor=16090D" alt="Security Research" />
+  <img src="https://img.shields.io/badge/INPUT%20MONITORING-C95A70?style=flat-square&labelColor=16090D" alt="Input Monitoring" />
+  <img src="https://img.shields.io/badge/PYTHON-C95A70?style=flat-square&labelColor=16090D" alt="Python" />
 </p>
 
 <p align="center">
   <a href="https://github.com/01-x3r0n3/KeyLogix">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20KEYLOGIX-FF1744?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=16070A" alt="Explore KeyLogix" />
+    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20KEYLOGIX-C95A70?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=16090D" alt="Explore KeyLogix" />
   </a>
 </p>
 
@@ -214,9 +214,9 @@ The project explores keyboard event capture, logging architecture, and the secur
 I document practical security work with an emphasis on **methodology, reasoning, observations, evidence, and lessons learned** rather than simply recording completion.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-00FF88?style=for-the-badge&logo=tryhackme&logoColor=000000&labelColor=06120C" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/PORTSWIGGER-FF1744?style=for-the-badge&logo=portswigger&logoColor=FFFFFF&labelColor=16070A" alt="PortSwigger" />
-  <img src="https://img.shields.io/badge/HACK%20THE%20BOX-39FF14?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=06120C" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/TRYHACKME-48C78E?style=for-the-badge&logo=tryhackme&logoColor=07130E&labelColor=0C1D15" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/PORTSWIGGER-C95A70?style=for-the-badge&logo=portswigger&logoColor=FFFFFF&labelColor=16090D" alt="PortSwigger" />
+  <img src="https://img.shields.io/badge/HACK%20THE%20BOX-6CCB9E?style=for-the-badge&logo=hackthebox&logoColor=07130E&labelColor=0C1D15" alt="Hack The Box" />
 </p>
 
 | Platform | Focus | Repository |
@@ -244,7 +244,7 @@ I document practical security work with an emphasis on **methodology, reasoning,
 ## `NODE 05` // 🧭 SECURITY METHODOLOGY
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=900&color=00FF88&background=00000000&center=true&vCenter=true&width=760&height=40&lines=RECONNAISSANCE+%E2%86%92+ENUMERATION+%E2%86%92+VALIDATION;MAP+THE+ATTACK+SURFACE+%E2%86%92+IDENTIFY+WEAKNESSES;DOCUMENT+EVIDENCE+%E2%86%92+BUILD+%E2%86%92+REVIEW+%26+IMPROVE" alt="Security methodology pipeline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=900&color=48C78E&background=00000000&center=true&vCenter=true&width=760&height=40&lines=RECONNAISSANCE+%E2%86%92+ENUMERATION+%E2%86%92+VALIDATION;MAP+THE+ATTACK+SURFACE+%E2%86%92+IDENTIFY+WEAKNESSES;DOCUMENT+EVIDENCE+%E2%86%92+BUILD+%E2%86%92+REVIEW+%26+IMPROVE" alt="Security methodology pipeline" />
 </p>
 
 <table align="center">
@@ -318,10 +318,10 @@ I focus on understanding **why a vulnerability or security weakness exists, what
 ## `NODE 06` // 📡 CURRENT FOCUS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WEB%20SECURITY-FF1744?style=for-the-badge&labelColor=16070A" alt="Web Security" />
-  <img src="https://img.shields.io/badge/RECONNAISSANCE-00FF88?style=for-the-badge&labelColor=06120C" alt="Reconnaissance" />
-  <img src="https://img.shields.io/badge/PENETRATION%20TESTING-FF1744?style=for-the-badge&labelColor=16070A" alt="Penetration Testing" />
-  <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-B388FF?style=for-the-badge&labelColor=0E0918" alt="Security Research" />
+  <img src="https://img.shields.io/badge/WEB%20SECURITY-C95A70?style=for-the-badge&labelColor=16090D" alt="Web Security" />
+  <img src="https://img.shields.io/badge/RECONNAISSANCE-48C78E?style=for-the-badge&labelColor=07130E" alt="Reconnaissance" />
+  <img src="https://img.shields.io/badge/PENETRATION%20TESTING-C95A70?style=for-the-badge&labelColor=16090D" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-A98BC7?style=for-the-badge&labelColor=120E18" alt="Security Research" />
 </p>
 
 <p align="center">
@@ -335,5 +335,5 @@ I focus on understanding **why a vulnerability or security weakness exists, what
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:030806,30:071A12,55:00FF88,75:10101F,100:030306" width="100%" alt="Cybersecurity portfolio footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:020605,30:06140D,55:168F5A,75:0D0D18,100:020205" width="100%" alt="Cybersecurity portfolio footer" />
 </p>
